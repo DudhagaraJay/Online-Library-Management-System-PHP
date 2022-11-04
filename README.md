@@ -17,6 +17,3 @@ After Creating Database,
 
 For admin panel, go to URL” http://localhost/Lms/Source/librarian”
 
-Project Demo:
-https://youtu.be/BQL27d5bQ3M
-DOWNLOAD LIBRAR
