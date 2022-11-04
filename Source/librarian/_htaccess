@@ -1,0 +1,2 @@
+# Disable directory indexes
+Options -Indexes
